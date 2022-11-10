@@ -1,6 +1,6 @@
-### Stepik course: "Quick start in artificial intelligence" 
+###  
 ### Курс на степике "Быстрый старт в искусственный интеллект"
-https://stepik.org/lesson/390702/step/1?unit=379796
+https://stepik.org/lesson/390702
 
   
 ####1  Машинное обучение
