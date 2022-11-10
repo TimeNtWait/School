@@ -1,5 +1,5 @@
 ### Stepik course: "Deep Learning School" 
-### Deep Learning School (МФТИ) - продвинутый курс 
+### Deep Learning School (курс МФТИ) - продвинутый поток (+базовый)
 https://mipt.ru/science/labs/innovation/projects/deep_learning_school
 
 https://stepik.org/lesson/608416
